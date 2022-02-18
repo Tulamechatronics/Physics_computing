@@ -1,0 +1,8 @@
+https://blog.slitherintopython.com/posts/ultimate-python-roadmap/?fbclid=IwAR1g6vDQx6ZAgGenexq69SjMAjrh7YjwDUQzQqTWEiE7uxvwcc6vnzV4jKM
+
+https://www.slitherintopython.com/index.html
+
+
+
+
+Grade 11 : Young Modulus testing using python : https://pythonforundergradengineers.com/stress-strain-curve-with-python-and-matpotlib.html
